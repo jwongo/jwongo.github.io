@@ -42,11 +42,11 @@ plugins:
 defaults:
   # _posts
   - scope:
-	path: ""
-	type: posts
+      path: ""
+      type: posts
     values:
-	show_date: true
-	read_time: true
+      show_date: true
+      read_time: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
